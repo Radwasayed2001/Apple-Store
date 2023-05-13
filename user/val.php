@@ -32,7 +32,6 @@ $user_id = $_GET['user_id'];
             <a href='#'><img src='../admin/images/logo.png' class='logo'></a>
             
             <ul>
-                <li><a href='card.php' class="card" style="background-color:rgb(20,20,20);padding:10px;">Go To MY Card</a></li>
                 
                 <li><a href='#' style="font-size: 24px;font-weight:bold;color:blanchedalmond;margin-right:0;"><?php echo $roww['name']; ?></a></li>
             </ul>
